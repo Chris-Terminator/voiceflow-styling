@@ -1,0 +1,100 @@
+.vfrc-chat {
+    background: linear-gradient(to bottom, rgba(8,145,82,0.75), rgba(0,0,0,0.75)), url('https://raw.githubusercontent.com/Chris-Terminator/image_assets/main/boxing-gloves-hang-by-ring%20Darkened.JPG');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    color: #fff !important;
+    right: 20px !important;
+    left: auto !important;
+}
+
+.vfrc-chat--spacer {
+    color: #000 !important;
+}
+
+.vf-footer,
+.vfrc-footer,
+.vfrc-input,
+.vfrc-chat-input--button,
+.vfrc-footer--watermark {
+    background-color: #089152 !important;
+}
+
+.vfrc-footer, .vfrc-footer * {
+    color: #ffffff;
+}
+
+textarea::placeholder {
+    color: #000000;
+}
+
+.vfrc-assistant-info--title,
+.vfrc-assistant-info--description {
+    color: #63fa10 !important;
+}
+
+.vfrc-system-response .vfrc-message {
+    background-color: #6EF7B8 !important;
+}
+
+._1vj16245 {
+    background: none !important;
+}
+
+._1gdvh9t1 {
+    border-radius: 25px;
+    display: flex;
+    z-index: 1;
+    justify-content: space-between;
+    padding: 7px 7px 7px 20px;
+    box-sizing: border-box;
+    border: 1px solid #57ff8e;
+    background-color: #000000;
+    box-shadow: 0 3px 4px #0000008f, 0 8px 42px -16px #00000094;
+    transition: border .15s ease, box-shadow .15s ease, border-radius .15s ease, opacity .15s ease;
+}
+
+._1gdvh9t6 {
+    width: 100%;
+    scrollbar-width: none;
+    border-color: transparent;
+    resize: none;
+    font-family: var(--_1bof89na);
+    font-size: 14px;
+    box-sizing: border-box;
+    outline: transparent 0px;
+    padding: 2px 0 0;
+    line-height: 20px;
+    color: #6EF7B8;
+    background-color: #000000;
+}
+
+._12m8tlu1 {
+    box-shadow: none;
+    background-color: #089152;
+}
+
+._1q15b0b2:hover {
+    background-color: #54db9d;
+}
+
+.mhuss00:enabled:hover:not(:active) {
+    background-color: #0891528a;
+    color: #000000;
+}
+
+._1cosygz0 {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    display: flex;
+    flex: none;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid var(--_1bof89n5);
+    background: var(--_1bof89n5);
+    color: #656d75;
+    transition: color .15s ease,scale .15s ease;
+    cursor: pointer;
+}
